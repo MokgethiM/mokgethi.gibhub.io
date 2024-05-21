@@ -2,18 +2,18 @@
 Hello, and thanks for stopping by! This repository contains examples of SQL, machine learning using Python, and Tableau-based data visualization that I have done so far. Feel free to have a look and to comment/contact for discussions.
 
 
-# [Project 1: Machine learning using K-Nearest Neighbor (KNN)](https://github.com/TRSomo/Thabang_Portfolio/blob/main/Prediction%20of%20diabetes%20using%20KNN.pdf)
-- In this project, I have built a machine learning model to predict diabetis status of patients (source: Kaggle)
-- The following tasks were performed: data profiling, data cleaning, data visualization, feature correlation and machine learning
+# [Project 1: Instagram Marketing Performance Jan 2023-Dec 2023](https://github.com/MokgethiM/mokgethi.gibhub.io/blob/main/Instagram%20marketing%20performance.png)
+- In this project, I have built a visualization dashboard on Instagram performance from 1st of January 2023 to the 15th of Dec 2023.
+- The data visualization demonstrated the overall expansion and growth of two linked Instagram accounts by interactions, likes, media reach and media product type.
+- The following tasks were performed: data profiling, data cleaning, data visualization, feature correlation and machine learning.
 
-# [Project 2: Machine learning using Linear regression, Decision Tree and Random Forest](https://github.com/TRSomo/Thabang_Portfolio/blob/main/Gibbs%20free%20energy.pdf)
-- Herein, I have developed 3 predictive models based on Linear regression, Decision Tree and Random Forest
-- The models predict Gibbs free energy of hydride formation in low, medium and high entropy alloys
-- The data was curated and collected from different publications found on Google Scholar
+# [Project 2: BP and Cholesterol Statistics Associated with Age and Sex](https://github.com/MokgethiM/mokgethi.gibhub.io/blob/main/BP%20AND%20CHOLESTEROL%20STATS.png)
+- This project involves visualization of the BP and cholesterol statistics associated with age and sex. (data source: Kaggle)
+- The data demonstrated the overall trends of high BP and cholesterol prevalence among females and males in various age groups.
 
-# [Project 3: Creating store databases with SQL](https://github.com/TRSomo/Thabang_Portfolio/blob/main/create_store_database.sql)
-- The project includes creating a dummy dataset for a store using SQL
-- Multiple tables, including 'Products', 'Customers', 'Shippers', 'Orders', and 'Order_items', were created.
+# [Project 3: Hospital Admission Statistics And Admission Deposit Figures](https://github.com/MokgethiM/mokgethi.gibhub.io/blob/main/Hospital%20admission%20stats.sql)
+- The project includes creating a visualization dashboard on the hospital admission stats and admission deposit figures associated with age and sex. ( datasource: Kaggle)
+- The data visualization illustrated types of hospital admission and illness severity in relation to their admission deposit figures.
 
 # [Project 4: Data visualization with Excel](https://github.com/TRSomo/Thabang_Portfolio/blob/main/Superstore%20sales%20dashboard_.xlsm)
 - I analysed and visualised the sales for the superstore shop using Pivot tables to create excel dashboard (source: Data.world).
