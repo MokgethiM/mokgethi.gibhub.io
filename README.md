@@ -1,4 +1,4 @@
-# Thabang Somo
+# Mokgethi Mahlo
 Hello, and thanks for stopping by! This repository contains examples of SQL, machine learning using Python, and Tableau-based data visualization that I have done so far. Feel free to have a look and to comment/contact for discussions.
 
 
