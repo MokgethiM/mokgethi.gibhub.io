@@ -11,18 +11,9 @@ Hello, and thanks for stopping by! This repository contains examples of SQL, mac
 - This project involves visualization of the BP and cholesterol statistics associated with age and sex. (data source: Kaggle)
 - The data demonstrated the overall trends of high BP and cholesterol prevalence among females and males in various age groups.
 
-# [Project 3: Hospital Admission Statistics And Admission Deposit Figures](https://github.com/MokgethiM/mokgethi.gibhub.io/blob/main/Hospital%20admission%20stats.sql)
+# [Project 3: Hospital Admission Statistics And Admission Deposit Figures](https://github.com/MokgethiM/mokgethi.gibhub.io/blob/main/Hospital%20admission%20stats.png)
 - The project includes creating a visualization dashboard on the hospital admission stats and admission deposit figures associated with age and sex. ( datasource: Kaggle)
 - The data visualization illustrated types of hospital admission and illness severity in relation to their admission deposit figures.
 
-# [Project 4: Data visualization with Excel](https://github.com/TRSomo/Thabang_Portfolio/blob/main/Superstore%20sales%20dashboard_.xlsm)
-- I analysed and visualised the sales for the superstore shop using Pivot tables to create excel dashboard (source: Data.world).
-
-# [Project 5: Data visualization with Tableau](https://public.tableau.com/app/profile/thabang.somo/viz/SalesanalysisdescriptiveforSuperstore/Dashboard1)
-- For this project, I visualised the sales for the superstore shop (source: Data.world).
-- The visuals include 'Monthly sales', 'Sales per state', 'Profit - discount correlations', 'profit per region', and so forth.
-![](/images/Dashboard%201.png)
-
-# [Project 6: Sales visualization with Tableau](https://public.tableau.com/app/profile/thabang.somo/viz/salesdata_16914395570510/Dashboard1?publish=yes)
-- The project entails interactive Tableau Dashboard that is customised and organised using containers.
-- source: Data.world
+# [Project 4: Inpatient Covered Charges.](https://github.com/TRSomo/Thabang_Portfolio/blob/main/Superstore%20sales%20dashboard_.xlsm)
+- I analysed and visualised the sales for the superstore shop using Pivot tables to create excel dashboard (source: Data.world)
