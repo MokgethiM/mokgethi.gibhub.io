@@ -1,5 +1,5 @@
 # Mokgethi Mahlo
-Hello, and thanks for stopping by! This repository contains examples of SQL, machine learning using Python, and Tableau-based data visualization that I have done so far. Feel free to have a look and to comment/contact for discussions.
+Hello, and thanks for stopping by! This repository contains examples of marketing- and heathcare-related data analytics and data visualization that I have done so far. Feel free to have a look and to comment/contact for discussions.
 
 
 # [Project 1: Instagram Marketing Performance Jan 2023-Dec 2023](https://github.com/MokgethiM/mokgethi.gibhub.io/blob/main/Instagram%20marketing%20performance.png)
