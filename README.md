@@ -15,6 +15,6 @@ Hello, and thanks for stopping by! This repository contains examples of marketin
 - The project includes creating a visualization dashboard on the hospital admission stats and admission deposit figures associated with age and sex. ( datasource: Kaggle)
 - The data visualization illustrated types of hospital admission and illness severity in relation to their admission deposit figures.
 
-# [Project 4: Inpatient Covered Charges](https://github.com/MokgethiM/mokgethi.gibhub.io/blob/main/Inpatient%20covered%20charges)
-- I analysed and visualised the inpatient covered charges in the United States (data source: Kaggle)
+# [Project 4: Inpatient covered charges in the United States](https://github.com/MokgethiM/mokgethi.gibhub.io/blob/main/Inpatient%20covered%20charges%20in%20the%20United%20States.png)
+- I have analysed and visualised the inpatient covered charges in the United States (data source: Kaggle)
 - The data visualization illustrated average inpatient covered charges and payments per state and different regions.
